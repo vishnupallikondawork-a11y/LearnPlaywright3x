@@ -1,0 +1,12 @@
+Things learnt in class today
+1. what is html, css and javascript
+2. java, javascript and typescript
+    1. core feaures of javascript
+3. interpreters and compilers
+    1. compile time and run time
+    2. javascript - both interpreter and compiled (using JIT)
+4. Browsers and their engines (v8)
+5. nodejs - it makes javascript to be used as a full stack language by making it to be able to run out of web browser as well
+6. NPM 
+7. setting up project structure in vscode
+8. IDE, ADE (Agentic Development Environment)
