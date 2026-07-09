@@ -1,1 +1,0 @@
-https://www.atlassian.com/software/confluence/resources/guides/how-to/test-plan#what-is-the-purpose
