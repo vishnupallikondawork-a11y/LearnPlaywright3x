@@ -6,7 +6,7 @@ Copy-paste this prompt, replacing the `{placeholders}`:
 
 **Prompt:**
 
-Explain the concept of `{CONCEPT}` with a comparison table (if applicable) and a summary flow diagram. Use `{EXAMPLE_FILE_PATH}` as the running example. Save the output as `{FILENAME}_IQ.md` in the `IQ_Notes/` folder.
+Explain the concept of `{CONCEPT}` with a comparison table (if applicable) and a summary flow diagram.Use `{EXAMPLE_FILE_PATH}` as the running example. Save the output as `{FILENAME}_IQ.md` in the `IQ_Notes/` folder.
 
 ---
 
