@@ -12,6 +12,7 @@ LearnPlaywright3x/
 ├── 02_chapter_Javascript/     # Variable declarations: let
 ├── 03_chapter_Identifier/     # Identifiers, rules, comments, IQ exercises
 ├── 04_chapter_Literal/        # Literals, null vs undefined, numbers
+├── 05_chapter_Operator/       # Data types, assignment, arithmetic, comparison, logical operators
 ├── IQ_Notes/                  # Concept deep-dives in markdown
 ├── D2D_Notes/                 # Day-to-day class notes
 └── README.md                  # This file
@@ -71,6 +72,18 @@ LearnPlaywright3x/
 | 11 | `11_Number.js` | Number type in JS |
 | 12 | `12_Number_Part2.js` | Number type — continued |
 
+### 05 — Chapter: Operators & Data Types
+
+| # | File | Topic |
+|---|------|-------|
+| 13 | `13_DataType.js` | Primitive vs reference types — string, number, boolean, bigInt, undefined, null, symbol; arrays, functions, objects |
+| 14 | `14_Assignment_Operator.js` | Assignment (`=`) and compound assignment (`+=`, `-=`) |
+| 15 | `15_Arithmetic_Operator.js` | Arithmetic (`+`, `-`, `*`, `/`, `%`, `**`) |
+| 16 | `16_Comparison_Operator.js` | Loose (`==`, `!=`) vs strict (`===`, `!==`) comparison |
+| 17 | `17_Logical_Operators.js` | Logical (`&&`, `||`, `!`) operators |
+| 18 | `18_Confusing_Comparison.js` | Edge cases — `"" == 0`, `"0" == 0`, string comparisons |
+| 18-P2 | `18_Confusing_Comparison_P2.js` | Edge cases — `null == undefined`, `null >= 0` paradox |
+
 ---
 
 ## IQ Notes (Concept Deep-Dives)
@@ -94,6 +107,7 @@ LearnPlaywright3x/
 | 6 July 2026 | `6 July 2026.txt` |
 | 7 July 2026 | `7 July 2026.txt` — HTML/CSS/JS, compilers, V8, Node.js, NPM, IDE/ADE |
 | 8 July 2026 | `8 July 2026.txt` |
+| — | `Tasks-remaining.txt` | Token compression setup (ponytail/caveman) |
 
 ---
 
@@ -105,10 +119,11 @@ LearnPlaywright3x/
 | 02 — Variables | 1 exercise | ✅ Complete |
 | 03 — Identifiers | 4 exercises | ✅ Complete |
 | 04 — Literals | 6 exercises | ✅ Complete |
+| 05 — Operators & Data Types | 7 exercises | ✅ Complete |
 | IQ Notes | 7 concept notes | ✅ Complete |
-| D2D Notes | 3 day logs | In Progress |
+| D2D Notes | 3 day logs + tasks | In Progress |
 
-**Total: 12 code exercises + 7 IQ notes + 3 day logs**
+**Total: 19 code exercises + 7 IQ notes + 4 D2D items**
 
 ---
 
