@@ -83,6 +83,18 @@ LearnPlaywright3x/
 | 17 | `17_Logical_Operators.js` | Logical (`&&`, `||`, `!`) operators |
 | 18 | `18_Confusing_Comparison.js` | Edge cases — `"" == 0`, `"0" == 0`, string comparisons |
 | 18-P2 | `18_Confusing_Comparison_P2.js` | Edge cases — `null == undefined`, `null >= 0` paradox |
+| 20 | `20_Question.js` | Loose vs strict comparison — `!=` vs `!==` |
+| 21 | `21_String_Op.js` | String operators — `+=` concatenation, comma vs `+` |
+| 22 | `22_Ternary_Op.js` | Ternary (conditional) operator — `condition ? true : false` |
+| 23 | `23_IQ.js` | Ternary IQ — test status PASS/FAIL |
+| 24 | `24_IQ2.js` | Ternary IQ — environment-based URL selection |
+| 25 | `25_IQ3.js` | Ternary IQ — CI headless/headed browser mode |
+| 26 | `26_IQ4.js` | Ternary IQ — SLA breach check with template literals |
+| 27 | `27_IQ5.js` | Ternary IQ — simplifying boolean expressions |
+| 28 | `28_Nested_Terny_Op.js` | Nested ternary — multi-condition with nesting |
+| 29 | `29_IQ_NT.js` | Nested ternary IQ — HTTP status code categorization |
+| 30 | `30_NT_IQ2.js` | Nested ternary IQ — temperature feel classification |
+| 31 | `31_TypeOf_Op.js` | `typeof` operator — type checking primitive & reference types |
 
 ---
 
@@ -119,11 +131,11 @@ LearnPlaywright3x/
 | 02 — Variables | 1 exercise | ✅ Complete |
 | 03 — Identifiers | 4 exercises | ✅ Complete |
 | 04 — Literals | 6 exercises | ✅ Complete |
-| 05 — Operators & Data Types | 7 exercises | ✅ Complete |
+| 05 — Operators & Data Types | 19 exercises | ✅ Complete |
 | IQ Notes | 7 concept notes | ✅ Complete |
 | D2D Notes | 3 day logs + tasks | In Progress |
 
-**Total: 19 code exercises + 7 IQ notes + 4 D2D items**
+**Total: 31 code exercises + 7 IQ notes + 4 D2D items**
 
 ---
 
