@@ -12,7 +12,8 @@ LearnPlaywright3x/
 ├── 02_chapter_Javascript/     # Variable declarations: let
 ├── 03_chapter_Identifier/     # Identifiers, rules, comments, IQ exercises
 ├── 04_chapter_Literal/        # Literals, null vs undefined, numbers
-├── 05_chapter_Operator/       # Data types, assignment, arithmetic, comparison, logical operators
+├── 05_chapter_Operator/       # Data types, operators, increment/decrement, null coalescing
+├── 06_chapter_Statement/      # If-else, multiple conditions, nested conditions
 ├── IQ_Notes/                  # Concept deep-dives in markdown
 ├── D2D_Notes/                 # Day-to-day class notes
 └── README.md                  # This file
@@ -95,6 +96,27 @@ LearnPlaywright3x/
 | 29 | `29_IQ_NT.js` | Nested ternary IQ — HTTP status code categorization |
 | 30 | `30_NT_IQ2.js` | Nested ternary IQ — temperature feel classification |
 | 31 | `31_TypeOf_Op.js` | `typeof` operator — type checking primitive & reference types |
+| 32 | `32_In_De_Op.js` | Pre/Post increment — `++a` vs `a++` behavior |
+| 32-2 | `32_incr_dcr.js` | Increment/decrement IQ — complex expressions with `++`/`--` |
+| 33 | `33_Ad_Incre.js` | Increment with addition — `++a + a` evaluations |
+| 34 | `34_Incre_Part2.js` | Increment continued — chained `++` expressions |
+| 35 | `35_Decrement.js` | Decrement — `--a` vs `a--` behavior |
+| 36 | `36_Null_Coalescing.js` | Nullish coalescing (`??`) — fallback for `null`/`undefined` |
+
+---
+
+### 06 — Chapter: Statements (Conditionals)
+
+| # | File | Topic |
+|---|------|-------|
+| 37 | `37_IQ.js` | Basic `if-else` — age-based branching |
+| 38 | `38_Multiple_Condition.js` | `if-else if-else` ladder — grade classification |
+| 38-2 | `38_IQ2.js` | Nested `if` — inner condition inside outer `if` block
+
+**Key Topics Covered:**
+- `if`, `else if`, `else` control flow
+- Multiple condition branching (ladder)
+- Nested conditions
 
 ---
 
@@ -131,11 +153,12 @@ LearnPlaywright3x/
 | 02 — Variables | 1 exercise | ✅ Complete |
 | 03 — Identifiers | 4 exercises | ✅ Complete |
 | 04 — Literals | 6 exercises | ✅ Complete |
-| 05 — Operators & Data Types | 19 exercises | ✅ Complete |
+| 05 — Operators & Data Types | 25 exercises | ✅ Complete |
+| 06 — Statements (Conditionals) | 3 exercises | ✅ Complete |
 | IQ Notes | 7 concept notes | ✅ Complete |
 | D2D Notes | 3 day logs + tasks | In Progress |
 
-**Total: 31 code exercises + 7 IQ notes + 4 D2D items**
+**Total: 34 code exercises + 7 IQ notes + 4 D2D items**
 
 ---
 
