@@ -14,6 +14,9 @@ LearnPlaywright3x/
 ├── 04_chapter_Literal/        # Literals, null vs undefined, numbers
 ├── 05_chapter_Operator/       # Data types, operators, increment/decrement, null coalescing
 ├── 06_chapter_Statement/      # If-else, multiple conditions, nested conditions
+├── 07_chapter_switch/         # Switch-case, fall-through, switch with booleans, browser grouping
+├── 08_UserInputs/             # prompt(), readline, prompt-sync, fs.readFileSync
+├── hackerrank_JS_Practice/    # HackerRank problem solutions (if-else, switch)
 ├── IQ_Notes/                  # Concept deep-dives in markdown
 ├── D2D_Notes/                 # Day-to-day class notes
 └── README.md                  # This file
@@ -120,6 +123,56 @@ LearnPlaywright3x/
 
 ---
 
+### 07 — Chapter: Switch Statements
+
+| # | File | Topic |
+|---|------|-------|
+| 39 | `39_Switch.js` | Basic `switch-case` — map day number to day name with `break` |
+| 40 | `40_IQ.js` | Switch without `break` — fall-through behavior (all cases execute) |
+| 41 | `41_IQ2.js` | Switch with `break` — correct day-to-message mapping, default for invalid |
+| 42 | `42_REAL_API_Testing.js` | Switch for HTTP response codes — 200 OK, 404 Not Found |
+| 43 | `43_Switch_Group.js` | Grouped cases — multiple browsers share Chromium label |
+| 44 | `44_IQ.js` | Fall-through IQ — fruit cascade with missing `break` statements |
+| 45 | `45_IQ2.js` | Switch on `true` — range-based grading with boolean expression cases |
+| 46 | `46_IQ3.js` | Duplicate case IQ — duplicate `case 10` with block-scoped `let` |
+| 47 | `47_IQ4.js` | Strict comparison in switch — `case false` vs `case 0`, `===` behavior |
+
+**Key Topics Covered:**
+- `switch-case-default` structure
+- Fall-through behavior (missing `break`)
+- Grouped cases for shared logic
+- Switch on `true` for range-based conditions
+- Strict comparison (`===`) used by `switch`
+- Duplicate cases and block-scoping with `let`
+
+---
+
+### 08 — Chapter: User Input
+
+| # | File | Topic |
+|---|------|-------|
+| 48 | `48_JS.js` | Browser `prompt()` — interactive user input in the browser |
+| 49 | `49_Node_UI.js` | Node.js `readline` — interactive CLI input with `createInterface` |
+| 50 | `50_Prompt.js` | `prompt-sync` package — synchronous prompt in Node.js |
+| 51 | `51_Fs.js` | `fs.readFileSync(0, 'utf8')` — reading from stdin with EOF signal |
+
+**Key Topics Covered:**
+- Four ways to accept user input in JavaScript
+- Browser `prompt()` vs Node.js `readline`
+- Third-party `prompt-sync` for synchronous input
+- Reading standard input via `fs` module
+
+---
+
+### HackerRank — JavaScript Practice
+
+| # | File | Topic |
+|---|------|-------|
+| — | `js_If_Else.js` | Grade classification — if-else ladder with 30–100 range |
+| — | `js_Switch.js` | Number to word — switch-case mapping 1–9 to ONE–NINE |
+
+---
+
 ## IQ Notes (Concept Deep-Dives)
 
 | File | Topic |
@@ -155,10 +208,13 @@ LearnPlaywright3x/
 | 04 — Literals | 6 exercises | ✅ Complete |
 | 05 — Operators & Data Types | 25 exercises | ✅ Complete |
 | 06 — Statements (Conditionals) | 3 exercises | ✅ Complete |
+| 07 — Switch Statements | 9 exercises | ✅ Complete |
+| 08 — User Input | 4 exercises | ✅ Complete |
+| HackerRank Practice | 2 solutions | ✅ Complete |
 | IQ Notes | 7 concept notes | ✅ Complete |
 | D2D Notes | 3 day logs + tasks | In Progress |
 
-**Total: 34 code exercises + 7 IQ notes + 4 D2D items**
+**Total: 49 code exercises + 7 IQ notes + 4 D2D items**
 
 ---
 
