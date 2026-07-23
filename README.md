@@ -16,6 +16,7 @@ LearnPlaywright3x/
 ├── 06_chapter_Statement/      # If-else, multiple conditions, nested conditions
 ├── 07_chapter_switch/         # Switch-case, fall-through, switch with booleans, browser grouping
 ├── 08_UserInputs/             # prompt(), readline, prompt-sync, fs.readFileSync
+├── 09_chapter_Loops/          # for, while, do-while, nested loops
 ├── hackerrank_JS_Practice/    # HackerRank problem solutions (if-else, switch)
 ├── IQ_Notes/                  # Concept deep-dives in markdown
 ├── D2D_Notes/                 # Day-to-day class notes
@@ -164,6 +165,33 @@ LearnPlaywright3x/
 
 ---
 
+### 09 — Chapter: Loops
+
+| # | File | Topic |
+|---|------|-------|
+| 52 | `52_Loop.js` | Basic loop introduction |
+| 53 | `53_For_Loop.js` | `for` loop — initialization, condition, increment |
+| 54 | `54_Increment.js` | Increment behavior inside loops |
+| 55 | `55_For_Loops.js` | `for` loop variations and patterns |
+| 56 | `56_For_Loops2.js` | More `for` loop exercises |
+| 57 | `57_While.js` | `while` loop — condition-first execution |
+| 58 | `58_While.js` | `while` loop continued |
+| 59 | `59_Modie.js` | Modulus operator inside loops |
+| 60 | `60_While_Vs_For.js` | Comparing `while` and `for` loops |
+| 61 | `61_Do_While.js` | `do-while` loop — execute-then-check |
+| 62 | `62_DoWhile_vs_While.js` | `do-while` vs `while` — at-least-once guarantee |
+| 63 | `63_NestedFor_lOOP.js` | Nested `for` loops |
+
+**Key Topics Covered:**
+- `for` loop structure and patterns
+- `while` loop — condition-first
+- `do-while` loop — guaranteed first execution
+- Loop increment behavior
+- Modulus inside loops
+- Nested `for` loops
+
+---
+
 ### HackerRank — JavaScript Practice
 
 | # | File | Topic |
@@ -210,11 +238,12 @@ LearnPlaywright3x/
 | 06 — Statements (Conditionals) | 3 exercises | ✅ Complete |
 | 07 — Switch Statements | 9 exercises | ✅ Complete |
 | 08 — User Input | 4 exercises | ✅ Complete |
+| 09 — Loops | 12 exercises | ✅ Complete |
 | HackerRank Practice | 2 solutions | ✅ Complete |
 | IQ Notes | 7 concept notes | ✅ Complete |
 | D2D Notes | 3 day logs + tasks | In Progress |
 
-**Total: 49 code exercises + 7 IQ notes + 4 D2D items**
+**Total: 61 code exercises + 7 IQ notes + 4 D2D items**
 
 ---
 
